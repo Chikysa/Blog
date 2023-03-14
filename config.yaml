@@ -53,7 +53,7 @@ params:
 
     sidebar:
         emoji: "😎"
-        subtitle: 不懂安全的Pre-Artist
+        subtitle: 不懂安全的Pre-Designer
         avatar:
             enabled: true
             local: true
